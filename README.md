@@ -1,0 +1,2 @@
+# Visualizing-Covid-Data
+This project was part of Data Camp projects where I got to get hands on with ggplot2. Lots of plotting, including log-transforming scales and annotating plots, as covered in Introduction to Data Visualization with ggplot2 and Intermediate Data Visualization with ggplot2. Simple manipulation of data frames, as covered in Data Manipulation with dplyr. Reading datasets from CSV files, as covered in Introduction to Importing Data in R.
